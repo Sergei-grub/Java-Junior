@@ -5,10 +5,19 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/Lesson_1/pom.xml" />
+        <option value="$PROJECT_DIR$/ClientServer/pom.xml" />
+        <option value="$PROJECT_DIR$/ClientServerChat/pom.xml" />
+        <option value="$PROJECT_DIR$/SocketChat/pom.xml" />
       </list>
     </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/ClientServer/pom.xml" />
+        <option value="$PROJECT_DIR$/ClientServerChat/pom.xml" />
+      </set>
+    </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" project-jdk-name="17" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21_PREVIEW" project-jdk-name="openjdk-21" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
